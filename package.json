@@ -1,0 +1,29 @@
+{
+  "name": "my-team",
+  "version": "1.0.0",
+  "description": "cli app",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srad25/My-Team.git"
+  },
+  "author": "Suzanne Radlein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srad25/My-Team/issues"
+  },
+  "homepage": "https://github.com/srad25/My-Team#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
