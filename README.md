@@ -19,13 +19,16 @@ Application being ran in command line. User is prompted to answer a series of qu
 ![Screenhot](./assets/images/CLImyteam.png "pic of CL.")
 
 
-A preview of the html opened in browser.
+A preview of the team html opened in browser.
 
 ![Screenhot](./assets/images/myTeam.png "pic of preview HTML.")
 
+![Screenhot](./assets/images/myTeam2.png "pic of preview HTML.")
+
+
 #### Link to Demo
 
-[Video]()
+[Video](https://drive.google.com/file/d/1YRqROoj_ZBr05_R17vKIpIXQXmLeDFGe/view?usp=sharing)
 
 ## Contact
 * https://github.com/srad25
