@@ -26,3 +26,7 @@ A preview of the html opened in browser.
 #### Link to Demo
 
 [Video]()
+
+## Contact
+* https://github.com/srad25
+* https://github.com/srad25/My-Team
