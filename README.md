@@ -21,7 +21,11 @@ Application being ran in command line. User is prompted to answer a series of qu
 
 A preview of the team html opened in browser.
 
+Team can start small
+
 ![Screenhot](./assets/images/myTeam.png "pic of preview HTML.")
+
+Team can grow by adding new members
 
 ![Screenhot](./assets/images/myTeam2.png "pic of preview HTML.")
 
